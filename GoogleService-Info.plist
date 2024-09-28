@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>915548030787-ikl9uvn4f6l4nv9spd6let1ou8mcbe8l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.915548030787-ikl9uvn4f6l4nv9spd6let1ou8mcbe8l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>915548030787-q8avbq6prf56007p8e3mcoopurv13np5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAAZET0Yp2FlH5G7fma_b-Jg9fpslZjF18</string>
+	<key>GCM_SENDER_ID</key>
+	<string>915548030787</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.enkopavle.healthycall</string>
+	<key>PROJECT_ID</key>
+	<string>healthy-call</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthy-call.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:915548030787:ios:fce9c947294deca56991f6</string>
+</dict>
+</plist>

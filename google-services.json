@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "915548030787",
+    "project_id": "healthy-call",
+    "storage_bucket": "healthy-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915548030787:android:e043995d0334ac006991f6",
+        "android_client_info": {
+          "package_name": "com.enkopavle.healthycall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915548030787-d7gfhu0d782g6opoglhh7d8ehbud8l9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enkopavle.healthycall",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "915548030787-q8avbq6prf56007p8e3mcoopurv13np5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enkopavle.healthycall",
+            "certificate_hash": "a87d98d7660b16b6280ec6ca176d82df7bc130cf"
+          }
+        },
+        {
+          "client_id": "915548030787-be06k4kshqt1mlnp09gp096l6hce8cvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDdeEF3kqBXiHEK_CS8BlK_Y4Od8kVd3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915548030787-be06k4kshqt1mlnp09gp096l6hce8cvc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "915548030787-ikl9uvn4f6l4nv9spd6let1ou8mcbe8l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.enkopavle.healthycall"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

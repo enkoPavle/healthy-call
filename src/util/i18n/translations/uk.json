@@ -1,0 +1,111 @@
+{
+  "auth": {
+    "Welcome back!": "З поверненням!",
+    "Skip": "Пропустити",
+    "Hi, I'm Emmy!": "Привіт, я Еммі!",
+    "I'm going to help you explore\nour app)": "Я допоможу вам вивчити\nнаш застосунок)",
+    "Got it!": "Зрозуміло!",
+    "Let's start by calculating your calorie allowance for the day": "Почнемо з розрахунку вашої норми калорій на день",
+    "Let's go!": "Вперед!",
+    "I'll do it later": "Я зроблю це пізніше",
+    "What goal do you have\nin mind?": "Яка ваша мета?",
+    "Lose weight": "Худнути",
+    "We use this information to calculate and provide you with daily personalized recommendations": "Ми використовуємо цю інформацію для розрахунків і щоденного надання вам персоналізованих рекомендацій",
+    "Maintain weight": "Підтримувати вагу",
+    "Gain weight": "Набирати вагу",
+    "What’s your gender?": "Яка ваша стать?",
+    "Male": "Чоловіча",
+    "Female": "Жіноча",
+    "What’s your age?": "Скільки вам років?",
+    "What’s your height?": "Який ваш зріст",
+    "What’s your weight?": "Яка ваша вага?",
+    "What’s your desired weight?": "Яка ваша бажана вага?",
+    "What’s your activity level?": "Який ваш рівень активності?",
+    "Sedentary": "Малорухливий",
+    "Little or no exercise": "Мало або відсутній",
+    "Active": "Активний",
+    "Exercise 2-4 days/week": "Тренування 2-4 дні на тиждень",
+    "Very active": "Дуже активний",
+    "Exercise 5-7 days/week": "Тренування 5-7 днів на тиждень",
+    "What’s your name?": "Як вас звати?",
+    "Well done, you did it!": "Чудово, ви впоралися!",
+    "How about we create an account for you now?": "Як щодо того, щоб ми зараз створили для вас обліковий запис?",
+    "Tap": "Торкніться",
+    "Continue": "Продовжити"
+  },
+  "tabs": {
+    "Home": "Головна",
+    "Calorie table": "Таблиця калорійності",
+    "Chat": "Чат",
+    "Menu": "Меню",
+    "Soon": "Скоро",
+    "Settings": "Налаштування"
+  },
+  "home": {
+    "Today you have\nconsumed": "Сьогодні ви\nспожили",
+    "of daily goals": "щоденних цілей",
+    "Food": "Їжа",
+    "Water": "Вода",
+    "Activity": " Активність",
+    "complete": "виконано"
+  },
+  "chat": {
+    "Write a message to start a dialog": "Напишіть повідомлення, щоб почати діалог",
+    "typing": "пише"
+  },
+  "settings": {
+    "Profile": "Профіль",
+    "Goals": "Цілі",
+    "Reminders": "Нагадування",
+    "Regular activity": "Регулярна активність",
+    "Change language": "Змінити мову",
+    "Support": "Підтримка",
+    "Log out": "Вийти",
+    "Delete account": "Видалити обліковий запис",
+    "Delete my account": "Видалити мій обліковий запис",
+    "Cancel": "Скасувати"
+  },
+  "profile": {
+    "Profile": "Профіль",
+    "Gender": "Стать",
+    "Age": "Вік",
+    "Weight": "Вага",
+    "Height": "Висота",
+    "Male": "Чоловіча",
+    "Female": "Жіноча"
+  },
+  "goals": {
+    "Goals": "Цілі",
+    "Goal": "Ціль",
+    "Daily intake": "Денна доза",
+    "Target weight": "Цільова вага",
+    "Drinking regimen": "Питний режим",
+    "Stay in shape": "Залишатися в формі"
+  },
+  "reminders": {
+    "Reminders": "Нагадування",
+    "Your reminder list is empty": "Ваш список нагадувань порожній",
+    "The app needs to access your calendar and reminders": "Застосунок потребує доступ до вашого календаря та нагадувань",
+    "The app needs to access your calendar": "Застосунок потребує доступ до вашого календаря",
+    "Loading": "Завантаження",
+    "Open settings": "Відкрити налаштування",
+    "Add reminder": "Додати нагадування",
+    "Edit reminder": "Редагувати нагадування",
+    "Create": "Створити",
+    "Title": "Назва",
+    "Time": "Час",
+    "Save": "Зберегти",
+    "Delete": "Видалити"
+  },
+  "change-language": {
+    "Language": "Мова"
+  },
+  "measures": {
+    "cal": "кал",
+    "cal/day": "кал/день",
+    "cm": "см",
+    "kg": "кг",
+    "l": "л",
+    "workout": "тренування"
+  }
+}
